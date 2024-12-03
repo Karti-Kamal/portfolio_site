@@ -19,6 +19,7 @@ const Banner = () => {
               viewport={{ once: false, amount: 0.7 }}
               className="text-[50px] font-bold leading-[0.8] lg:text-[90px]"
             >
+            
               Kamal <span>KARTI</span>
             </motion.h1>
             <motion.div
